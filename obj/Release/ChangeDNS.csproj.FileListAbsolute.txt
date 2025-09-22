@@ -1,0 +1,10 @@
+D:\CODES\C#\WorkSpace\ChangeDNS\bin\Release\ChangeDNS.exe.config
+D:\CODES\C#\WorkSpace\ChangeDNS\bin\Release\ChangeDNS.exe
+D:\CODES\C#\WorkSpace\ChangeDNS\bin\Release\ChangeDNS.pdb
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.csproj.AssemblyReference.cache
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.Form1.resources
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.Properties.Resources.resources
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.csproj.GenerateResource.cache
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.csproj.CoreCompileInputs.cache
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.exe
+D:\CODES\C#\WorkSpace\ChangeDNS\obj\Release\ChangeDNS.pdb
